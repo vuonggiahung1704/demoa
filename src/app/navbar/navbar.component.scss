@@ -1,0 +1,21 @@
+mat-toolbar {
+  position: relative;
+  color: white;
+  font-size: 34px;
+  font-weight: 700;
+  background-color: aqua;
+}
+
+.overlay-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-image: url("../../assets/image/hk.png");
+}
+
+img.navbar_logo {
+  width: 48px;
+  margin-right: 20px;
+}
